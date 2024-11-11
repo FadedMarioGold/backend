@@ -39,15 +39,3 @@ This project is a backend API for managing contacts. It includes user authentica
    MONGO_URI=your_mongo_db_uri
    ACCESS_TOKEN_SECRET=your_secret_key
 
-
-    API Routes
-    POST /api/users/register: Register a new user
-    POST /api/users/login: User login
-    GET /api/contacts: Get all contacts for the authenticated user
-    POST /api/contacts: Add a new contact
-    GET /api/contacts/
-    : Get a specific contact by ID
-    PUT /api/contacts/
-    : Update a contact by ID
-    DELETE /api/contacts/
-    : Delete a contact by ID
